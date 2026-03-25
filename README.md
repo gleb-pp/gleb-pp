@@ -70,6 +70,8 @@ GPA: 4.7/5.0
 
 ## 📞 Contacts
 
-[![Telegram](https://img.shields.io/badge/@gleb%5Fpp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gleb_pp)
-[![Email](https://img.shields.io/badge/gvpopov.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvpopov.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/gleb--pp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleb-pp)
+**Telegram (preferred)**: [@gleb_pp](https://t.me/gleb_pp)
+
+**Email**: [gvpopov.dev@gmail.com](mailto:gvpopov.dev@gmail.com)
+
+**LinkedIn**: [gleb-pp](https://www.linkedin.com/in/gleb-pp)
