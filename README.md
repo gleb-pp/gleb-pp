@@ -33,7 +33,7 @@ Learning management system built with FastAPI featuring a three-layer architectu
 - Ensured code quality through pytest, mypy, and Ruff
 
 **[Wikipedia Dataset Curation Agent (2025)](https://github.com/gleb-pp/wikipedia-dataset-curator)**  
-Intelligent agent that curates a diverse dataset of 5,000 Wikipedia pages within a strict 6500 request limit.
+Intelligent agent that curates a diverse dataset of 5,000 Wikipedia pages within a strict 6,500 request limit.
 - Implemented embedding-based novelty tracking with SentenceTransformer and FAISS to prevent semantic overlap
 - Designed a heuristic quality scoring function without relying on WikiRank
 - Developed a multi-stage exploration strategy balancing discovery with quality-based selection
@@ -54,7 +54,7 @@ High School Diploma
 - Mathematics and Physics
 
 **Innopolis University** (2023 – 2027)  
-Bachelor in Software Development  
+Bachelor of Software Development  
 GPA: 4.7/5.0
 - Industrial Software Development in Python
 - CPython Advanced Course
@@ -66,7 +66,7 @@ GPA: 4.7/5.0
 **Data Analysis National Olympiad (2022)**  
 - Second stage prize-winner ([diploma](https://drive.google.com/file/d/1nbOhwcnoJgk9G6OcYCi2MSyGzXEnFYek/view?usp=drive_link))
 - Finalist ([diploma](https://drive.google.com/file/d/1s2fx_nfsrscbPmAgs0xr29JffReyYTdV/view?usp=drive_link))
-- Final Project: Analysis of Changes to the Tinkoff Card Delivery Service([the project results](https://docs.google.com/presentation/d/1H6SJdKkxBZltnAY-D5ajjTeDjkcnNX3LgheIp7MI2tU/edit?usp=sharing))
+- Final Project: Analysis of Changes to the Tinkoff Card Delivery Service ([the project results](https://docs.google.com/presentation/d/1H6SJdKkxBZltnAY-D5ajjTeDjkcnNX3LgheIp7MI2tU/edit?usp=sharing))
 
 ## 📞 Contacts
 
