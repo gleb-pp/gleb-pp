@@ -64,7 +64,7 @@ GPA: 4.7/5.0
 
 ## 🏆 Olympiads
 **Data Analysis National Olympiad (2023)**  
-- Winner of the second stage ([diploma](https://drive.google.com/file/d/1nbOhwcnoJgk9G6OcYCi2MSyGzXEnFYek/view?usp=drive_link))
+- Second stage prize-winner ([diploma](https://drive.google.com/file/d/1nbOhwcnoJgk9G6OcYCi2MSyGzXEnFYek/view?usp=drive_link))
 - Finalist ([diploma](https://drive.google.com/file/d/1s2fx_nfsrscbPmAgs0xr29JffReyYTdV/view?usp=drive_link))
 - Final Project: Analysis of Changes to the Tinkoff Card Delivery Service([the project results](https://docs.google.com/presentation/d/1H6SJdKkxBZltnAY-D5ajjTeDjkcnNX3LgheIp7MI2tU/edit?usp=sharing))
 
