@@ -1,12 +1,12 @@
 # Hi, I'm Gleb Popov
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4A6FA5?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-2D2F36?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Python][Python]][Python-url]
+[![FastAPI][FastAPI]][FastAPI-url]
+[![SQLAlchemy][SQLAlchemy]][SQLAlchemy-url]
+[![PostgreSQL][PostgreSQL]][PostgreSQL-url]
+[![Docker][Docker]][Docker-url]
+[![Kafka][Kafka]][Kafka-url]
+[![Git][Git]][Git-url]
 
 ## 👨‍💻 About Me
 
@@ -72,3 +72,19 @@ GPA: 4.7/5.0
 
 [![Telegram](https://img.shields.io/badge/@gleb__pp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gleb_pp)
 [![Email](https://img.shields.io/badge/gvpopov.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvpopov.dev@gmail.com)
+
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[FastAPI]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[SQLAlchemy]: https://img.shields.io/badge/SQLAlchemy-4A6FA5?style=for-the-badge&logo=sqlalchemy&logoColor=white
+[PostgreSQL]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Kafka]: https://img.shields.io/badge/Kafka-2D2F36?style=for-the-badge&logo=apachekafka&logoColor=white
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
+[Python-url]: https://www.python.org/
+[FastAPI-url]: https://fastapi.tiangolo.com/
+[SQLAlchemy-url]: https://www.sqlalchemy.org/
+[PostgreSQL-url]: https://www.postgresql.org/
+[Docker-url]: https://www.docker.com/
+[Kafka-url]: https://kafka.apache.org/
+[Git-url]: https://git-scm.com/
