@@ -75,10 +75,10 @@ GPA: 4.7/5.0
 - Data Structures and Algorithms
 
 ## 🏆 Olympiads
-**Data Analysis National Olympiad (2022)**  
-- Second stage prize-winner ([diploma](https://drive.google.com/file/d/1nbOhwcnoJgk9G6OcYCi2MSyGzXEnFYek/view?usp=drive_link))
-- Finalist ([diploma](https://drive.google.com/file/d/1s2fx_nfsrscbPmAgs0xr29JffReyYTdV/view?usp=drive_link))
-- Final Project: Analysis of Changes to the Tinkoff Card Delivery Service ([the project results](https://docs.google.com/presentation/d/1H6SJdKkxBZltnAY-D5ajjTeDjkcnNX3LgheIp7MI2tU/edit?usp=sharing))
+**Data Analysis National Olympiad (Dec 2022)**  
+- Second stage prize-winner, Finalist 
+- Final Project: Analysis of Changes to the Tinkoff Card Delivery Service
+- [Google Drive](https://drive.google.com/drive/folders/1Qumob_6RyA2dXDB5SqOdrJ3_h-_cLMIk?usp=drive_link) with diploma and project presentation
 
 ## 📞 Contacts
 
