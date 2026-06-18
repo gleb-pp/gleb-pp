@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Python backend developer focused on building stable and scalable systems. I write asynchronous, testable code with clean architecture principles from the start. My technical stack centers around FastAPI, SQLAlchemy, PostgreSQL, Kafka, and Docker. I am comfortable with both monolithic ([EdHub](https://github.com/gleb-pp/edhub)) and microservices architecture (check the Experience section). 
+I am a Python backend developer focused on building stable and scalable systems. I build asynchronous services with FastAPI, SQLAlchemy, PostgreSQL, Kafka, and Docker, paying close attention to clean architecture, testing, and maintainability. I have experience working with both monolithic and microservices-based applications.
 
 ## 💼 Experience
 
@@ -55,8 +55,7 @@ An agent for collecting a diverse dataset of Wikipedia pages
 [**Genetic Sudoku Solver (Dec 2024)**](https://github.com/gleb-pp/sudoku-solver)  
 A Genetic Algorithm for Solving Sudoku in C++
 - Implemented an evolutionary algorithm with a population, crossover, mutations, and a fitness function
-- Developed a preprocessing heuristic and an adaptive
-- mutation mechanism to escape local optima
+- Developed a preprocessing heuristic and an adaptive mutation mechanism to escape local optima
 - Compared various mutation and selection strategies
 
 
