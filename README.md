@@ -14,35 +14,50 @@ I am a Python backend developer focused on building stable and scalable systems.
 
 ## 💼 Experience
 
-**MTS Web Services** (2025 – Present)  
-Software Engineer Intern  
-Developed backend microservices for an IT Asset Management system and agentless discovery platform.  
-- Implemented APIs and business logic using FastAPI
-- Managed database migrations with Alembic
-- Built asynchronous service communication via Kafka
-- Integrated internal corporate libraries and services
+**MTS Web Services** (Oct 2025 – Present)  
+Software Engineer Intern
 
-Contributed to a microservices-based architecture in a production environment.
+Microservices for an agentless discovery platform
+- Designed vendor-agnostic SQLAlchemy models and REST APIs for IT infrastructure inventory with pagination and search
+- Built Kafka-based task orchestration for remote hosts: command routing, status tracking, and automatic retries on recovery
+- Implemented OAuth2/JWT authentication for API and file endpoints
+- Developed Blockly script interpreter with step-by-step execution and state persistence
+
+AI Agent for C4 Architecture Diagrams 
+- Built an AI agent with LangChain + Chainlit that generates C4 diagrams from system descriptions
+- Designed an MCP server with tools for data collection and PlantUML diagram generation
+- Created a microservice for diagram storage with versioning, rollback, and user linking
+- Integrated all components into a single pipeline for upload, editing, and export
 
 ## 🚀 Projects
 
-[**EdHub (2025)**](https://github.com/gleb-pp/edhub)  
-Learning management system built with FastAPI featuring a three-layer architecture and role-based access control.
-- Designed data models with SQLAlchemy and implemented validation using Pydantic
-- Managed dependencies and project configuration with Poetry
-- Ensured code quality through pytest, mypy, and Ruff
+[**EdHub (July 2025)**](https://github.com/gleb-pp/edhub)  
+REST API for a learning management system on FastAPI
+- Built a 3-tier architecture (models, services, routers)
+- Implemented a role-based model (teacher, student, parent, admin)
+- Developed a data model using SQLAlchemy and a validation system using Pydantic
+- Set up a CI/CD pipeline with pytest, mypy, and ruff via GitHub Actions
 
-**[Wikipedia Dataset Curation Agent (2025)](https://github.com/gleb-pp/wikipedia-dataset-curator)**  
-Intelligent agent that curates a diverse dataset of 5,000 Wikipedia pages within a strict 6,500 request limit.
-- Implemented embedding-based novelty tracking with SentenceTransformer and FAISS to prevent semantic overlap
-- Designed a heuristic quality scoring function without relying on WikiRank
-- Developed a multi-stage exploration strategy balancing discovery with quality-based selection
+[**Research on Generators in CPython (May 2026)**](https://github.com/gleb-pp/pygen-research)  
+Research on the Internal Structure of Generators in CPython
+- Examined the structure of generator and frame objects
+- Investigated the reasons why these objects cannot be serialized
+- Conducted benchmarks to compare generators with alternative Python objects
+- Presented a talk at a Python conference; the work received positive feedback from a CPython core developer
 
-[**Genetic Sudoku Solver (2024)**](https://github.com/gleb-pp/sudoku-solver)  
-C++ implementation of a genetic algorithm designed to solve Sudoku puzzles across varying difficulty levels.
-- Implemented population management, crossover, mutation operators, and fitness function
-- Added preprocessing and adaptive mutation probability for improved convergence
-- Applied object-oriented principles to structure the evolutionary algorithm
+[**Wikipedia Dataset Curation Agent (Dec 2025)**](https://github.com/gleb-pp/wikipedia-dataset-curator)
+An agent for collecting a diverse dataset of Wikipedia pages
+- Collected 5,000 pages within a limit of 6,500 API requests
+- Implemented semantic novelty tracking using SentenceTransformer and FAISS to eliminate duplicates
+- Developed a heuristic function for evaluating pages under conditions of partial observability
+- Applied clean architecture principles with 3 layers
+
+[**Genetic Sudoku Solver (Dec 2024)**](https://github.com/gleb-pp/sudoku-solver)  
+A Genetic Algorithm for Solving Sudoku in C++
+- Implemented an evolutionary algorithm with a population, crossover, mutations, and a fitness function
+- Developed a preprocessing heuristic and an adaptive
+- mutation mechanism to escape local optima
+- Compared various mutation and selection strategies
 
 
 ## 🎓 Education
@@ -59,8 +74,6 @@ GPA: 4.7/5.0
 - Industrial Software Development in Python
 - CPython Advanced Course
 - Data Structures and Algorithms
-- Programming Paradigms
-- Databases
 
 ## 🏆 Olympiads
 **Data Analysis National Olympiad (2022)**  
