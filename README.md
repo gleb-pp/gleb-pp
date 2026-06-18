@@ -45,7 +45,7 @@ Research on the Internal Structure of Generators in CPython
 - Conducted benchmarks to compare generators with alternative Python objects
 - Presented a talk at a Python conference; the work received positive feedback from a CPython core developer
 
-[**Wikipedia Dataset Curation Agent (Dec 2025)**](https://github.com/gleb-pp/wikipedia-dataset-curator)
+[**Wikipedia Dataset Curation Agent (Dec 2025)**](https://github.com/gleb-pp/wikipedia-dataset-curator)  
 An agent for collecting a diverse dataset of Wikipedia pages
 - Collected 5,000 pages within a limit of 6,500 API requests
 - Implemented semantic novelty tracking using SentenceTransformer and FAISS to eliminate duplicates
